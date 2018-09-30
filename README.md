@@ -1,4 +1,4 @@
-# Abount keth
+# About keth
 keth is a sidechain of ethereum for game players   
 
 [block explorer](http://b.kexingqiu.net)  
