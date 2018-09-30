@@ -1,8 +1,8 @@
 # Abount keth
 keth is a sidechain of ethereum for game players   
 
-[block explorer](http://b.kexingqiu.net")  
-[block chain game app download](https://krypton.world")
+[block explorer](http://b.kexingqiu.net)  
+[block chain game app download](https://krypton.world)
 
 
 
